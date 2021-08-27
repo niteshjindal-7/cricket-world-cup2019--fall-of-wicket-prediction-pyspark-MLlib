@@ -23,3 +23,12 @@ Steps -
       -cumrunsbyballsfaced[derived variable calculated from cummulative runs / balls faced]- this value will decrease with more and more unplayed balls during the match
       
 7.Implement logistic regression using pyspark MLlib modules to predict wicket falls
+
+
+References:
+
+https://spark.apache.org/docs/3.1.1/api/python/reference/api/pyspark.ml.feature.VectorAssembler.html
+
+https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.evaluation.BinaryClassificationEvaluator.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
