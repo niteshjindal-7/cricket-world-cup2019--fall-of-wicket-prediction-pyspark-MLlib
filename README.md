@@ -4,6 +4,10 @@
 This is a demonstration of Spark ML Libraries capabilities for which I have tried implementing Logistic Regression Model to predict wicket fall on World Cup Semi Final
 (between India and New Zealand) held in Old Trafford, Manchester, England. 
 
+Scrapped data of Players and Matches can be retrieved from the below link, which we will use in our notebook-
+
+https://drive.google.com/drive/folders/1IQCUKo1zBkVKM1b9NPMl2EApVb00cpXn?usp=sharing
+
 Steps - 
 
 1.Load the scrapped data of matches and player
